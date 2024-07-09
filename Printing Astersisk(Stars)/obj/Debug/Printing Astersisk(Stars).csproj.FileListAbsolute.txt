@@ -1,0 +1,7 @@
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\Printing Astersisk(Stars)\bin\Debug\Printing Astersisk(Stars).exe.config
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\Printing Astersisk(Stars)\bin\Debug\Printing Astersisk(Stars).exe
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\Printing Astersisk(Stars)\bin\Debug\Printing Astersisk(Stars).pdb
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\Printing Astersisk(Stars)\obj\Debug\Printing Astersisk(Stars).csproj.AssemblyReference.cache
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\Printing Astersisk(Stars)\obj\Debug\Printing Astersisk(Stars).csproj.CoreCompileInputs.cache
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\Printing Astersisk(Stars)\obj\Debug\Printing Astersisk(Stars).exe
+C:\Users\HY\Documents\Personal Stuffs\Personal Projects\Printing Astersisk(Stars)\obj\Debug\Printing Astersisk(Stars).pdb
